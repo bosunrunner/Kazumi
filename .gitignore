@@ -55,3 +55,12 @@ android/build/reports/problems/
 **/macos/Pods/
 **/ios/Podfile.lock
 **/macos/Podfile.lock
+
+# FVM Version Cache
+.fvm/
+fastlane/.libmpv-android-video-build
+fastlane/.flutter
+.vscode/settings.json
+pubspec.lock
+.gitignore
+.fvmrc
